@@ -3,11 +3,11 @@
 This is a full-stack web application built with React.js for the frontend and Node.js/Express.js for the backend, featuring user authentication functionality.
 
 ## Key Features:
-✨ Modern React.js frontend
-🔒 Secure JWT authentication
-🎨 Stylish Tailwind CSS design
-🚀 Express.js REST API
-🗄️ MongoDB integration
+✨ Modern React.js frontend \n
+🔒 Secure JWT authentication \n
+🎨 Stylish Tailwind CSS design \n
+🚀 Express.js REST API \n
+🗄️ MongoDB integration \n
 🛡️ Protected routes
 
 ## Project Structure
